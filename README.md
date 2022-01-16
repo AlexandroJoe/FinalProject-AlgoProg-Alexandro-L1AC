@@ -1,5 +1,6 @@
 # Student Info
-Name : Aleandro Joe Claudio
+
+Name : Alexandro Joe Claudio
 Class : L1AC
 ID : 2501963160
 
