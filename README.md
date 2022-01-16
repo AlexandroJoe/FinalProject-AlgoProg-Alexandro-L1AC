@@ -4,10 +4,9 @@ Name : Alexandro Joe Claudio
 Class : L1AC
 ID : 2501963160
 
-# FinalProject
-This is the repo for Algo and Pro final project
-
 # Minesweeper game
+
+This is the repo for Algo and Pro final project.
 A simple 8x8 grid that contains mines (becareful!)
 
 # Demo Video
